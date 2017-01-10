@@ -1,0 +1,3 @@
+document.cookie = "sessiondig01=10142217735"
+document.cookie = "sessiondig02=Daniel Pinna"
+document.cookie = 'sessiondig03=["21988888888"]'

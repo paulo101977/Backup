@@ -1,0 +1,7 @@
+Set proxy git:
+
+git config --global http.proxy http://oi394823:naruto30@10.32.150.40:82
+
+Unset proxy: 
+
+git config --global --unset http.proxy
